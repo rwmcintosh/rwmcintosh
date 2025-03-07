@@ -6,4 +6,4 @@ https://github.com/Open-Systems-Pharmacology/mobi
 
 https://github.com/Open-Systems-Pharmacology/rSharp/
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rwmcintosh&theme=default)
+[![](https://awesome-github-stats.azurewebsites.net/user-stats/rwmcintosh)](https://git.io/awesome-stats-card)
